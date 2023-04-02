@@ -1,0 +1,251 @@
+[{
+  "_id": {
+    "$oid": "6364d43d1d3eebb82a632cc0"
+  },
+  "name": "Kurumi",
+  "original": "Kurumi",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667552317/177013/kohduptlivt5n3pga5tm.webp",
+  "__v": 0,
+  "origin": {
+    "$oid": "6364d111bdd973cf38e0bbec"
+  }
+},{
+  "_id": {
+    "$oid": "63652fd398dc8375bf6eccbf"
+  },
+  "name": "Mona Megistus",
+  "original": "モナ・メギストス",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667575764/Character/qzefweidfml3959gluyx.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6368c5a146e8eab841879959"
+  },
+  "name": "Yaotome Urushi",
+  "original": "八乙女 うるし",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667810722/Character/nlaynnty1cqmxobtjhie.jpg",
+  "origin": {
+    "$oid": "6364d111bdd973cf38e0bbec"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636df0512622fad42add716b"
+  },
+  "name": "Barbara Pegg",
+  "original": "バーバラ",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1668149328/Character/esxbqkt50isgwuoeujzj.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d921aa445bf1d54d69dab"
+  },
+  "name": "Takao",
+  "original": "高雄",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670428803/Character/ocikb5pifivdswbmrmhh.png",
+  "origin": {
+    "$oid": "637d8dba39edfaa7f1e0eb4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d9223a445bf1d54d69dad"
+  },
+  "name": "Rita Rossweisse",
+  "original": "高雄",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669174316/Character/j0e8secymalt2flywwoy.webp",
+  "origin": {
+    "$oid": "6364d111bdd973cf38e0bbec"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d9227a445bf1d54d69daf"
+  },
+  "name": "Kiana Kaslana",
+  "original": "キアナ・カスラナ",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669174694/Character/pc53krje0lyy60lhryot.webp",
+  "origin": {
+    "$oid": "636de83ef192ba30e9858e5e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d9fb793e2d75b0c4a6a58"
+  },
+  "name": "Traveler (Lumine)",
+  "original": "旅人 〔蛍〕",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669177276/Character/m5jjiktmnlm9ecinybeo.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637db213ac09b4a4375f62fc"
+  },
+  "name": "Traveler (Aether)",
+  "original": "旅人 〔空〕",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669181977/Character/qtyqfqf441xazvxlyxsq.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637dc821fff9c72cd23ab33b"
+  },
+  "name": "Raiden Mei",
+  "original": "雷電 芽衣",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669187623/Character/n8eappuaqx6afae7u8ir.jpg",
+  "origin": {
+    "$oid": "636de83ef192ba30e9858e5e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637dc9b5fff9c72cd23ab356"
+  },
+  "name": "Keqing",
+  "original": "刻晴",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669188027/Character/jiviles34mjowbgq9zgp.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ed6abd26d20cf6dced975"
+  },
+  "name": "Klee",
+  "original": "クレー",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669256877/Character/x9qavbsc6nbufkwc7cor.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637edf6fb6a7734d770f7212"
+  },
+  "name": "Ganyu",
+  "original": "甘雨",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259121/Character/hwksacdingq7urvng9ef.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ee01ab6a7734d770f722d"
+  },
+  "name": "Xiao",
+  "original": "魈",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259291/Character/uqdsqbvrtrvlz8kyhvqu.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63859b889da00472b6584d0a"
+  },
+  "name": "Fu Hua ",
+  "original": "Unknows",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669700489/Character/ly2eu6oy96fw9b7rhkkl.jpg",
+  "origin": {
+    "$oid": "636de83ef192ba30e9858e5e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63908cc653bb35a0814f75fb"
+  },
+  "name": "Fischl",
+  "original": "フィッシュル",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670417606/Character/heawj9nzy3fpsppltgxx.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639092cfdb61744af5f569dc"
+  },
+  "name": "Kitagawa Marin",
+  "original": "喜多川 海夢",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670419151/Character/gstdsige3u7bjgnjslmd.jpg",
+  "origin": {
+    "$oid": "63908ff4499a8b902123e486"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639096aa1acde7e6a6ed3ac3"
+  },
+  "name": "Yoshino",
+  "original": "四糸乃",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670420138/Character/fu8mtfz28fqpkpkhwlcz.jpg",
+  "origin": {
+    "$oid": "6364d111bdd973cf38e0bbec"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639096e61acde7e6a6ed3ad2"
+  },
+  "name": "Yatogami Tohka",
+  "original": "夜刀神 十香",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670420198/Character/xjdagldymfw0fewu6epp.jpg",
+  "origin": {
+    "$oid": "6364d111bdd973cf38e0bbec"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639099e2fd60cec4fc771dfb"
+  },
+  "name": "Hu Tao",
+  "original": "胡桃",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670420962/Character/nrvc2ruaxl6x2gduv5dq.jpg",
+  "origin": {
+    "$oid": "6364d111bdd973cf38e0bbec"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63909f8e33426492cd734561"
+  },
+  "name": "Raiden Shogun",
+  "original": "雷電 将軍",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670422414/Character/vpyb0w3nl6xyeyxyfpzb.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390a055773d3808dce91dc9"
+  },
+  "name": "Jean Gunnhildr",
+  "original": "ジン・グンヒルド",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670422613/Character/q83trg8wjgyvhzknzwzp.jpg",
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390bb8f72219f433efd6bc3"
+  },
+  "name": "Jeanne d'Arc (Alter)",
+  "original": "ジャンヌ・ダルク [オルタ]",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670429583/Character/xnw6wfydf9oranrimugg.jpg",
+  "origin": {
+    "$oid": "6390bb2372219f433efd6bb5"
+  },
+  "__v": 0
+}]

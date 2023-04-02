@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "641ffa3d7ddde9cabddb9aeb"
+  },
+  "post": {
+    "$oid": "63914a23b0a1470ce15a2aa2"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "dayfollow": {
+    "$date": "2023-03-26T07:54:37.655Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ffa427ddde9cabddb9afd"
+  },
+  "post": {
+    "$oid": "6390b63968468915d57bdb19"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "dayfollow": {
+    "$date": "2023-03-26T07:54:42.076Z"
+  },
+  "__v": 0
+}]

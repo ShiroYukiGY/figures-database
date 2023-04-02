@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "633155b20b3c3046722cb79d"
+  },
+  "name": "PVC",
+  "about": "Nhựa PVC còn có tên gọi khác là Polyvinyl Clorua. Đây là loại nhựa có lịch sử từ lâu đời, được tạo ra từ các loại tổng hợp nhân tạo vinylClorua. Các thành phẩm nhựa cũng rất đa dạng, trong đó có một số mẫu PVC chủ yếu gồm:  PVC dẻo còn gọi là PVC-P: Tương ứng với tên gọi của nó là đặc tính dẻo và trong. Loại PVC này được tăng thêm chất dẻo tương thích để tăng tính kết dính. PVC cứng còn goi là PVC-U: Với đặc điểm cứng và tính năng chống va đập, chống nước, chống ăn mòn cao nên sản phẩm thường được ứng dụng làm các đường ống. Polyvinyl Clorua hay perchlorovinyl clo hóa: Có hàm lượng clo nhiều hơn các mẫu PVC trên. Nó có ưu điểm chống cháy tốt. Định hướng phân tử PVC hay còn gọi là PVC-O: Có tính cứng và khả năng chịu lực tốt nhờ sự liên kết phân lớp chặt chẽ. PVC biến đổi hay PVC-M: Nó có tuổi thọ cao với độ cứng và khả năng chịu tác động của thời tiết tốt.",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667960446/Materials/uox15f1b2vli3fktpvsz.jpg"
+},{
+  "_id": {
+    "$oid": "633155f40b3c3046722cb79e"
+  },
+  "name": "ABS"
+},{
+  "_id": {
+    "$oid": "633156440b3c3046722cb79f"
+  },
+  "name": "Resin"
+}]

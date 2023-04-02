@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "63314bbf8fb29f1c8320df14"
+  },
+  "name": "Trading"
+},{
+  "_id": {
+    "$oid": "63314ce10b3c3046722cb78d"
+  },
+  "name": "Model Kits"
+},{
+  "_id": {
+    "$oid": "63314ce10b3c3046722cb78e"
+  },
+  "name": "Plushes"
+},{
+  "_id": {
+    "$oid": "63314b588fb29f1c8320df12"
+  },
+  "name": "Overall"
+},{
+  "_id": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "name": "Prepainted"
+},{
+  "_id": {
+    "$oid": "63314ce10b3c3046722cb78f"
+  },
+  "name": "Dishes"
+}]

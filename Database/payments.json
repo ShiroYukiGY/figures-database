@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "637f2c5aacde2fd50bc5b358"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "price": "250000",
+  "datePurchage": {
+    "$date": "2022-12-24T08:33:30.033Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f2c6d62b97c8546dba7f0"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "price": "250000",
+  "datePurchage": {
+    "$date": "2022-11-24T08:33:49.641Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390b67f5b7b4ae569dc6d01"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "price": "25000",
+  "datePurchage": {
+    "$date": "2022-12-07T15:51:27.201Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390b7905b7b4ae569dc6d5f"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "price": "25000",
+  "datePurchage": {
+    "$date": "2022-12-07T15:56:00.564Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390be4e5b7b4ae569dc6e48"
+  },
+  "user": {
+    "$oid": "6390be275b7b4ae569dc6e2b"
+  },
+  "price": "25000",
+  "datePurchage": {
+    "$date": "2022-12-07T16:24:46.552Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63914d17b0a1470ce15a2b03"
+  },
+  "user": {
+    "$oid": "636de68dc0cf03aaf0989138"
+  },
+  "price": "25000",
+  "datePurchage": {
+    "$date": "2022-12-08T02:33:59.155Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641a86eed04848214dc2d9ea"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "price": "25000",
+  "datePurchage": {
+    "$date": "2023-03-22T04:41:18.622Z"
+  },
+  "__v": 0
+}]

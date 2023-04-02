@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "6364da33f0466fe98d20fb22"
+  },
+  "name": "Good Smile",
+  "Homepage": "https://www.goodsmile.info/",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667553844/177013/svcxxtipiqn2bo9c98tq.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6364dc93f0466fe98d20fb25"
+  },
+  "name": "Kotobukiya",
+  "Homepage": "https://en.kotobukiya.co.jp/",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667554452/177013/keo78born2ron6pocjcg.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63652eed98dc8375bf6eccb8"
+  },
+  "name": "Wonderful Works",
+  "Homepage": "http://wonderfulworks.co.jp/",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667575534/Companies/vqb88qwbya6b1hbaxo72.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63652f7b98dc8375bf6eccbb"
+  },
+  "name": "Myethos",
+  "Homepage": "http://www.myethos.cn/",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667575677/Companies/n5wxe1fowlnixqxdjbdl.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636e082474a45ade86884581"
+  },
+  "name": "Apex innovation",
+  "Homepage": "www.apex-toy.com",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1668156597/Artists/vopkpbatiuqeaexnvwri.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636f60ffec265967908056ea"
+  },
+  "name": "Alter",
+  "Homepage": "https://alter-web.jp/figure/",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669175634/Artists/mnftn6kmofwf2gzedstj.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ede90b6a7734d770f71dd"
+  },
+  "name": "Mihoyo",
+  "Homepage": "https://weibo.com/u/6415164493",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258898/Companies/ft3jupbafgmosjokit5m.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63909294db61744af5f569cc"
+  },
+  "name": "Kadokawa",
+  "Homepage": "www.kadokawa.co.jp",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670419092/Companies/u35zytad9dymcaqc093m.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639097cd1acde7e6a6ed3adf"
+  },
+  "name": " Aniplex",
+  "Homepage": "アニプレックス",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670420429/Companies/qeho3enmt3cflbhxxwet.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639098141acde7e6a6ed3aed"
+  },
+  "name": "Ascii Media Works",
+  "Homepage": "アスキー・メディアワークス",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670420500/Companies/up6xj5fr2hh2odolfncd.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63909989138622cbb884dd9c"
+  },
+  "name": "eStream",
+  "Homepage": "www.estream.co.jp",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670420873/Companies/igglgimq4s0viuombzvc.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390a1d44826f0f95b8966cd"
+  },
+  "name": "Union Creative International Ltd",
+  "Homepage": "www.union-creative.jp",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670422996/Companies/s0xo32rrqe25orxzm38m.jpg",
+  "__v": 0
+}]

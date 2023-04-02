@@ -1,0 +1,660 @@
+[{
+  "_id": {
+    "$oid": "636cb3baa2beb8852da56295"
+  },
+  "name": "Kurumi - Date a Live",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1668068274/Figure/x8ascigyacdp2trhusd8.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1668068277/Figure/vhgamg9elxku1yfocrtw.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1668068281/Figure/b0yslsa1fh1xxop4upnm.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1668068283/Figure/vfhutehvuhktidz6axzw.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1668068286/Figure/x5ztt58rlxetz2ofk2ym.jpg"
+  ],
+  "origin": {
+    "$oid": "6364d111bdd973cf38e0bbec"
+  },
+  "character": [
+    {
+      "$oid": "6364d43d1d3eebb82a632cc0"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "6364da33f0466fe98d20fb22"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "63653310435aa5a966b7666f"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d",
+    "633155f40b3c3046722cb79e"
+  ],
+  "release_date": {
+    "$date": "2022-06-07T17:00:00.000Z"
+  },
+  "price": 12000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636ce3f0293ff68f8c292dde"
+  },
+  "name": "Barbara Pegg",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258034/Figure/sxfrwnoeqzatbi62hqm4.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258037/Figure/gadzgu8ndef1yw1yt7vn.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258038/Figure/e8no0te6wtcklnc9bmzz.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258041/Figure/mtgigoygriskva1krjrf.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258043/Figure/vsfitohsrll8zsu0qanj.jpg"
+  ],
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "character": [
+    {
+      "$oid": "636df0512622fad42add716b"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "6364dc93f0466fe98d20fb25"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "636532e7435aa5a966b7666c"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d",
+    "633155f40b3c3046722cb79e"
+  ],
+  "price": 4500,
+  "__v": 0,
+  "release_date": {
+    "$date": "2022-12-15T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "637d99ad93e2d75b0c4a6a0b"
+  },
+  "name": "Takao - 1/7 - Full Throttle Charmer Ver",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257914/Figure/mqwnrdfk1uihjaurge3d.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257916/Figure/a51eercuommgdsuowhqc.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257918/Figure/lhihaq27nloznhmtuh1i.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257919/Figure/i7ydvieeus43kfje0dqx.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257921/Figure/h5865wwdepwspkay2j6p.jpg"
+  ],
+  "origin": {
+    "$oid": "637d8dba39edfaa7f1e0eb4b"
+  },
+  "character": [
+    {
+      "$oid": "637d921aa445bf1d54d69dab"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "636f60ffec265967908056ea"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637d97e093e2d75b0c4a69c6"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d"
+  ],
+  "price": 18800,
+  "__v": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "release_date": {
+    "$date": "2022-06-07T17:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "637d9eab93e2d75b0c4a6a49"
+  },
+  "name": " Rita Rossweisse (Maid of Celestia Ver)  ",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257823/Figure/lispsub6kzidoyqv1bqq.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257824/Figure/t6blnwj8sviirlbzn4ni.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257826/Figure/tu2w9xmbous4haisd50p.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257828/Figure/wu4snw2somlf8jv9krgv.jpg"
+  ],
+  "origin": {
+    "$oid": "636de83ef192ba30e9858e5e"
+  },
+  "character": [
+    {
+      "$oid": "637d9223a445bf1d54d69dad"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "6364da33f0466fe98d20fb22"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637d9e5193e2d75b0c4a6a20"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d"
+  ],
+  "price": 15000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637db168ac09b4a4375f62ed"
+  },
+  "name": "Traveler (Lumine)",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258421/Figure/iogtomf89oii5uaeqbud.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258424/Figure/ua0fq0rzdagwphfhvylz.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258426/Figure/uxd3voyd2rxeb8w0cqsj.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258428/Figure/ojpxizggpvj4rn70ktis.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258431/Figure/drj8ocbespm7q58go7dq.jpg"
+  ],
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "character": [
+    {
+      "$oid": "637d9fb793e2d75b0c4a6a58"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "637ede90b6a7734d770f71dd"
+    },
+    {
+      "$oid": "63652eed98dc8375bf6eccb8"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "6368782134c9eb65a953f3c3"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d"
+  ],
+  "price": 16800,
+  "__v": 0,
+  "release_date": {
+    "$date": "2022-11-15T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "637db2daac09b4a4375f6338"
+  },
+  "name": "Traveler (Aether) - 1/7 (Kotobukiya)",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258530/Figure/hmgldocfp7zgjbfgpwyy.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258532/Figure/bi44kadi4jg176o53ave.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258535/Figure/y7zw1crrljp9hsad804b.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258537/Figure/woyso7jer0yvj34qhe3c.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258539/Figure/iov1g116ng5bav7x4d4s.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258542/Figure/ql9kjlpvwo2arcauegvb.jpg"
+  ],
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "character": [
+    {
+      "$oid": "637db213ac09b4a4375f62fc"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "6364dc93f0466fe98d20fb25"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637db26fac09b4a4375f6311"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d"
+  ],
+  "price": 16800,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637dbf40d8a9a3718e683ad4"
+  },
+  "name": "Kiana Kaslana - 1/8",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258622/Figure/i9otebxuh1dziuuyrgfi.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258624/Figure/wdzjr1bird5vl7nrtdwv.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258626/Figure/kyjyf56irpv13uqngbi1.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258628/Figure/egr0mpfxlhrkf4jum1d4.jpg"
+  ],
+  "origin": {
+    "$oid": "636de83ef192ba30e9858e5e"
+  },
+  "character": [
+    {
+      "$oid": "637d9227a445bf1d54d69daf"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "636f60ffec265967908056ea"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "636cf6e4103b91849ec98eaa"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d"
+  ],
+  "price": 22800,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637dc868fff9c72cd23ab348"
+  },
+  "name": "Mei Raiden Herrscher of Thunder ",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257581/Figure/vqlv5nud4nxt3jsesvku.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257582/Figure/zfgbowojiv4ycrl2yyse.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257585/Figure/hd5hcvodkv6knzzeird6.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257587/Figure/i7qdjob1dagkmchykgex.jpg"
+  ],
+  "origin": {
+    "$oid": "636de83ef192ba30e9858e5e"
+  },
+  "character": [
+    {
+      "$oid": "637dc821fff9c72cd23ab33b"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "637ede90b6a7734d770f71dd"
+    },
+    {
+      "$oid": "636e082474a45ade86884581"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637d9e5193e2d75b0c4a6a20"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d",
+    "633155f40b3c3046722cb79e"
+  ],
+  "price": 22800,
+  "__v": 0,
+  "release_date": {
+    "$date": "2022-11-15T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "637dca2ffff9c72cd23ab363"
+  },
+  "name": "Keqing Driving Thunder ver.",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257671/Figure/ez4bwyjjubwmyeoelavy.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257673/Figure/rwq2c71nucudrkqnprqo.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257675/Figure/v3ruyergl8h7rl7zjs4k.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257677/Figure/njskayhx9pmukzui1cof.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257678/Figure/efzqdxemzr8i5utcupks.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257680/Figure/qbaiu0jqcq9ovueodww5.jpg"
+  ],
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "character": [
+    {
+      "$oid": "637dc9b5fff9c72cd23ab356"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "636e082474a45ade86884581"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637d9e5193e2d75b0c4a6a20"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d",
+    "633156440b3c3046722cb79f"
+  ],
+  "price": 17800,
+  "__v": 0,
+  "release_date": {
+    "$date": "2022-09-28T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "637ed6e7d26d20cf6dced98d"
+  },
+  "name": "Klee Spark Knight Ver.",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257749/Figure/lxtnosxze1jkgjboq30u.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257751/Figure/rfvzeqwa7ut7khurmc6i.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257754/Figure/engotlvf0kpgxp8cfdug.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669257755/Figure/sxzbfpzi5ndb09bjuw0l.jpg"
+  ],
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "character": [
+    {
+      "$oid": "637ed6abd26d20cf6dced975"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "636e082474a45ade86884581"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637d9e5193e2d75b0c4a6a20"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d"
+  ],
+  "price": 15000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637edef4b6a7734d770f71f7"
+  },
+  "name": "Kiana Kaslana Herrscher of Flamescion Ver",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258991/Figure/yqukyayrewmxnztix8m3.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258993/Figure/tgfq8eqyltlmg87nmetj.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258995/Figure/ipfmuohgowj0za2qyn26.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669258997/Figure/xnrqyothexcky7a5ehwz.jpg"
+  ],
+  "origin": {
+    "$oid": "636de83ef192ba30e9858e5e"
+  },
+  "character": [
+    {
+      "$oid": "637d9227a445bf1d54d69daf"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "637ede90b6a7734d770f71dd"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637d9e5193e2d75b0c4a6a20"
+    },
+    {
+      "$oid": "636cf6f7512f9e5d006a65a4"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d",
+    "633155f40b3c3046722cb79e"
+  ],
+  "price": 22800,
+  "__v": 0,
+  "release_date": {
+    "$date": "2022-11-01T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "637edf91b6a7734d770f721f"
+  },
+  "name": "Sweet Rain / Ganyu Follow the Moon Ver",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259147/Figure/h9xuj9442sr4owaxonop.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259149/Figure/qs2e9baztluiit0pawxv.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259151/Figure/eia3ekwgfcqpkhtbyucy.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259153/Figure/ublneceocv4wnc1wbn9u.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259155/Figure/n5be2peswb7nfj2gack6.jpg"
+  ],
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "character": [
+    {
+      "$oid": "637edf6fb6a7734d770f7212"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "636e082474a45ade86884581"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637d9e5193e2d75b0c4a6a20"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d"
+  ],
+  "price": 15500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ee0a1b6a7734d770f723a"
+  },
+  "name": " Xiao: Vigilant Yaksha Ver. 1/7",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259420/Figure/edh6cgjflhwuqtrt7dwq.webp",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259422/Figure/dm9oydodswmevhto3rzf.webp",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259424/Figure/afqzekirm21qv0mfk2np.webp",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259425/Figure/jriqvcnbvwgnqlz9e2b3.webp",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669259427/Figure/mdshjpii5601uxzeybhy.webp"
+  ],
+  "origin": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "character": [
+    {
+      "$oid": "637ee01ab6a7734d770f722d"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "636e082474a45ade86884581"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637d9e5193e2d75b0c4a6a20"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d"
+  ],
+  "price": 15500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63859ca59da00472b6584d22"
+  },
+  "name": "Fu Hua Cerulean Court Ver. 1/8",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669700767/Figure/ptfalsp7wf7aryu1xowi.webp",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669700769/Figure/cfzmvszpnuw0vonr7f90.webp",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669700771/Figure/j4juqxq5k6qddapvel7k.webp",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1669700773/Figure/pbgscwb3glhkpennnw7o.webp"
+  ],
+  "origin": {
+    "$oid": "636de83ef192ba30e9858e5e"
+  },
+  "character": [
+    {
+      "$oid": "63859b889da00472b6584d0a"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "636e082474a45ade86884581"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "637d9e5193e2d75b0c4a6a20"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d",
+    "633155f40b3c3046722cb79e"
+  ],
+  "price": 23390,
+  "release_date": {
+    "$date": "2023-12-31T00:00:00.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390a27f4826f0f95b8966e7"
+  },
+  "name": "Date A Live - Tokisaki Kurumi",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670423157/Figure/omfjbpud1ukynasrk2me.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670423159/Figure/bxmrj7vyfzq3c9hue0v9.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670423162/Figure/dow7l4zi7lmvbvmroksx.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670423164/Figure/whr9hfml8nzou5ttzduk.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670423167/Figure/phpajpl7vnvzxilffywt.jpg"
+  ],
+  "origin": {
+    "$oid": "6364d111bdd973cf38e0bbec"
+  },
+  "character": [
+    {
+      "$oid": "6364d43d1d3eebb82a632cc0"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "6390a1d44826f0f95b8966cd"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "6390a20b4826f0f95b8966da"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d",
+    "633156440b3c3046722cb79f"
+  ],
+  "price": 15500,
+  "release_date": {
+    "$date": "2021-03-31T00:00:00.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390bd2b72219f433efd6c0d"
+  },
+  "name": "Jeanne d'Arc (Alter) - 1/7 - Avenger",
+  "category": {
+    "$oid": "63314b998fb29f1c8320df13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670429988/Figure/hftw4kgv7h7l1ahelsys.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670429989/Figure/xcpagvlygaear8p9mvys.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670429992/Figure/tbxqbxs4k9brgmqp6cji.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670429993/Figure/mibwcuucoyedfhsatumw.jpg",
+    "https://res.cloudinary.com/dfikygdlo/image/upload/v1670429995/Figure/hdfybomxstzj2mmcjmw6.jpg"
+  ],
+  "origin": {
+    "$oid": "6390bb2372219f433efd6bb5"
+  },
+  "character": [
+    {
+      "$oid": "6390bb8f72219f433efd6bc3"
+    }
+  ],
+  "company": [
+    {
+      "$oid": "636f60ffec265967908056ea"
+    }
+  ],
+  "artists": [
+    {
+      "$oid": "6390bc9472219f433efd6c00"
+    },
+    {
+      "$oid": "6390bbef72219f433efd6bdb"
+    },
+    {
+      "$oid": "6390bc2c72219f433efd6be8"
+    }
+  ],
+  "materials": [
+    "633155b20b3c3046722cb79d",
+    "633155f40b3c3046722cb79e"
+  ],
+  "price": 26800,
+  "release_date": {
+    "$date": "2019-10-23T00:00:00.000Z"
+  },
+  "__v": 0
+}]

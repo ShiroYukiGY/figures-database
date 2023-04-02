@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6364d111bdd973cf38e0bbec"
+  },
+  "name": "Date a Live ",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667551505/177013/aoiiykrgx4vninvmtzij.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636620ad932f6353e418449b"
+  },
+  "name": "Genshin Impact",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1667637424/Origin/m4uovdmbdo9keendlb5k.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636de83ef192ba30e9858e5e"
+  },
+  "name": " Honkai Impact 3rd",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670465850/Origin/tpwxotwtg7id4x1zp7vv.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d8dba39edfaa7f1e0eb4b"
+  },
+  "name": "Azur lane",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1669172671/Origin/ynqqpewvxxpgnmzrtdy4.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63908ff4499a8b902123e486"
+  },
+  "name": "Sono Bisque Doll wa Koi wo Suru",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670418420/Origin/uzs9nfomwy4xvgv2a1xx.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639095a7236fd2c8deb38725"
+  },
+  "name": "Angel Beats!",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670419879/Origin/v1gtui3escnc7d1nipd1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390bb2372219f433efd6bb5"
+  },
+  "name": "Fate/Grand Order",
+  "image": "https://res.cloudinary.com/dfikygdlo/image/upload/v1670429474/Origin/nqf0sx2tuvak2m3zv7ex.jpg",
+  "__v": 0
+}]

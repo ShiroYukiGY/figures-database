@@ -1,0 +1,519 @@
+[{
+  "_id": {
+    "$oid": "636dead1351419bf0026a5ef"
+  },
+  "user": {
+    "$oid": "636de68dc0cf03aaf0989138"
+  },
+  "figure": {
+    "$oid": "636cb33fa2beb8852da56289"
+  },
+  "viewFig": {
+    "$date": "2022-11-11T06:25:21.598Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637087cd76e8e23320f0c39e"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "figure": {
+    "$oid": "636cb33fa2beb8852da56289"
+  },
+  "viewFig": {
+    "$date": "2022-11-13T05:59:41.364Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637088a6710dc2665374b494"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "figure": {
+    "$oid": "636cb3baa2beb8852da56295"
+  },
+  "viewFig": {
+    "$date": "2022-11-13T06:03:18.294Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637089825df0a5c01aca7715"
+  },
+  "user": {
+    "$oid": "636de68dc0cf03aaf0989138"
+  },
+  "figure": {
+    "$oid": "636ce3f0293ff68f8c292dde"
+  },
+  "viewFig": {
+    "$date": "2022-11-13T06:06:58.173Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6370a249fcab315464c7c707"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "figure": {
+    "$oid": "636ce3f0293ff68f8c292dde"
+  },
+  "viewFig": {
+    "$date": "2022-11-13T07:52:41.204Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63802b79916b51ffbfac7015"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "figure": {
+    "$oid": "637edf91b6a7734d770f721f"
+  },
+  "viewFig": {
+    "$date": "2022-11-25T02:42:01.056Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380eae4789673a40a411c7e"
+  },
+  "user": {
+    "$oid": "636de68dc0cf03aaf0989138"
+  },
+  "figure": {
+    "$oid": "637ee0a1b6a7734d770f723a"
+  },
+  "viewFig": {
+    "$date": "2022-11-25T16:18:44.159Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380eaea789673a40a411c8e"
+  },
+  "user": {
+    "$oid": "636de68dc0cf03aaf0989138"
+  },
+  "figure": {
+    "$oid": "637edf91b6a7734d770f721f"
+  },
+  "viewFig": {
+    "$date": "2022-11-25T16:18:50.861Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380eaef789673a40a411c9e"
+  },
+  "user": {
+    "$oid": "636de68dc0cf03aaf0989138"
+  },
+  "figure": {
+    "$oid": "637ed6e7d26d20cf6dced98d"
+  },
+  "viewFig": {
+    "$date": "2022-11-25T16:18:55.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638575bf07cb94a96182e5f9"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "figure": {
+    "$oid": "637edf91b6a7734d770f721f"
+  },
+  "viewFig": {
+    "$date": "2022-11-29T03:00:15.455Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638586621f3f4d1c521ff541"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "figure": {
+    "$oid": "637ed6e7d26d20cf6dced98d"
+  },
+  "viewFig": {
+    "$date": "2022-11-29T04:11:14.604Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6388aa65cc66cb53ac4ba817"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "figure": {
+    "$oid": "636cb33fa2beb8852da56289"
+  },
+  "viewFig": {
+    "$date": "2022-12-01T13:21:41.893Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638a3449b175ea087caa5dc4"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "figure": {
+    "$oid": "63859ca59da00472b6584d22"
+  },
+  "viewFig": {
+    "$date": "2022-12-02T17:22:17.836Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638acbd246940b17c9d90401"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "figure": {
+    "$oid": "637ee0a1b6a7734d770f723a"
+  },
+  "viewFig": {
+    "$date": "2022-12-03T04:08:50.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638acbdb46940b17c9d90427"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "figure": {
+    "$oid": "637dca2ffff9c72cd23ab363"
+  },
+  "viewFig": {
+    "$date": "2022-12-03T04:08:59.490Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638acbec46940b17c9d90455"
+  },
+  "user": {
+    "$oid": "636fac4ea7f63cfc3e3979da"
+  },
+  "figure": {
+    "$oid": "637dc868fff9c72cd23ab348"
+  },
+  "viewFig": {
+    "$date": "2022-12-03T04:09:16.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638acc4046940b17c9d9048c"
+  },
+  "user": {
+    "$oid": "636de68dc0cf03aaf0989138"
+  },
+  "figure": {
+    "$oid": "637dca2ffff9c72cd23ab363"
+  },
+  "viewFig": {
+    "$date": "2022-12-03T04:10:40.044Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b3712198c28ace44d9d1e"
+  },
+  "user": {
+    "$oid": "638b36f6198c28ace44d9d04"
+  },
+  "figure": {
+    "$oid": "637db168ac09b4a4375f62ed"
+  },
+  "viewFig": {
+    "$date": "2022-12-03T11:46:26.327Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b371a198c28ace44d9d32"
+  },
+  "user": {
+    "$oid": "638b36f6198c28ace44d9d04"
+  },
+  "figure": {
+    "$oid": "637ed6e7d26d20cf6dced98d"
+  },
+  "viewFig": {
+    "$date": "2022-12-03T11:46:34.191Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b425366c98507789d4e2b"
+  },
+  "user": {
+    "$oid": "638b36f6198c28ace44d9d04"
+  },
+  "figure": {
+    "$oid": "637edf91b6a7734d770f721f"
+  },
+  "viewFig": {
+    "$date": "2022-12-03T12:34:27.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b442a86fb4ac60ac01eac"
+  },
+  "user": {
+    "$oid": "638b36f6198c28ace44d9d04"
+  },
+  "figure": {
+    "$oid": "637ee0a1b6a7734d770f723a"
+  },
+  "viewFig": {
+    "$date": "2022-12-03T12:42:18.744Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b487e34fe0d80d7c5ab31"
+  },
+  "user": {
+    "$oid": "638b36f6198c28ace44d9d04"
+  },
+  "figure": {
+    "$oid": "637dca2ffff9c72cd23ab363"
+  },
+  "viewFig": {
+    "$date": "2022-12-03T13:00:46.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c17ca21cac16f865cb6a0"
+  },
+  "user": {
+    "$oid": "6388ab16cc66cb53ac4ba8cf"
+  },
+  "figure": {
+    "$oid": "637edf91b6a7734d770f721f"
+  },
+  "viewFig": {
+    "$date": "2022-12-04T03:45:14.927Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638f431c136518ab30d1acea"
+  },
+  "user": {
+    "$oid": "638b36f6198c28ace44d9d04"
+  },
+  "figure": {
+    "$oid": "63859ca59da00472b6584d22"
+  },
+  "viewFig": {
+    "$date": "2022-12-06T13:26:52.956Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638f4323136518ab30d1ad2a"
+  },
+  "user": {
+    "$oid": "638b36f6198c28ace44d9d04"
+  },
+  "figure": {
+    "$oid": "637edef4b6a7734d770f71f7"
+  },
+  "viewFig": {
+    "$date": "2022-12-06T13:26:59.817Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638f440a136518ab30d1ade6"
+  },
+  "user": {
+    "$oid": "636de68dc0cf03aaf0989138"
+  },
+  "figure": {
+    "$oid": "637edef4b6a7734d770f71f7"
+  },
+  "viewFig": {
+    "$date": "2022-12-06T13:30:50.811Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638f56f6ebea17bb0e9e73e5"
+  },
+  "user": {
+    "$oid": "638b36f6198c28ace44d9d04"
+  },
+  "figure": {
+    "$oid": "636cb33fa2beb8852da56289"
+  },
+  "viewFig": {
+    "$date": "2022-12-06T14:51:34.796Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390b0145b7b4ae569dc6a5d"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "figure": {
+    "$oid": "63859ca59da00472b6584d22"
+  },
+  "viewFig": {
+    "$date": "2022-12-07T15:24:04.241Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390b0435b7b4ae569dc6aa4"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "figure": {
+    "$oid": "6390a27f4826f0f95b8966e7"
+  },
+  "viewFig": {
+    "$date": "2022-12-07T15:24:51.034Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390b06f5b7b4ae569dc6ad1"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "figure": {
+    "$oid": "637ee0a1b6a7734d770f723a"
+  },
+  "viewFig": {
+    "$date": "2022-12-07T15:25:35.934Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390b0975b7b4ae569dc6b5a"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "figure": {
+    "$oid": "637ed6e7d26d20cf6dced98d"
+  },
+  "viewFig": {
+    "$date": "2022-12-07T15:26:15.616Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390b2f35b7b4ae569dc6bf2"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "figure": {
+    "$oid": "636cb3baa2beb8852da56295"
+  },
+  "viewFig": {
+    "$date": "2022-12-07T15:36:19.351Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390b2f85b7b4ae569dc6c05"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "figure": {
+    "$oid": "636ce3f0293ff68f8c292dde"
+  },
+  "viewFig": {
+    "$date": "2022-12-07T15:36:24.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390b8515b7b4ae569dc6d99"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "figure": {
+    "$oid": "637d99ad93e2d75b0c4a6a0b"
+  },
+  "viewFig": {
+    "$date": "2022-12-07T15:59:13.600Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390bc4e83ea0f0c530e67a9"
+  },
+  "user": {
+    "$oid": "636de68dc0cf03aaf0989138"
+  },
+  "figure": {
+    "$oid": "63859ca59da00472b6584d22"
+  },
+  "viewFig": {
+    "$date": "2022-12-07T16:16:14.082Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6401824832c193a3a78feae2"
+  },
+  "user": {
+    "$oid": "6401823032c193a3a78fead3"
+  },
+  "figure": {
+    "$oid": "63859ca59da00472b6584d22"
+  },
+  "viewFig": {
+    "$date": "2023-03-03T05:14:48.612Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6401832832c193a3a78feba4"
+  },
+  "user": {
+    "$oid": "6401823032c193a3a78fead3"
+  },
+  "figure": {
+    "$oid": "636cb3baa2beb8852da56295"
+  },
+  "viewFig": {
+    "$date": "2023-03-03T05:18:32.752Z"
+  },
+  "__v": 0
+}]

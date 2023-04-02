@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "641ffac57ddde9cabddb9b2f"
+  },
+  "user": {
+    "$oid": "63802f26916b51ffbfac706d"
+  },
+  "post": {
+    "$oid": "63914a23b0a1470ce15a2aa2"
+  },
+  "title": "haha dep du",
+  "dateComment": {
+    "$date": "2023-03-26T07:56:53.494Z"
+  },
+  "__v": 0
+}]
